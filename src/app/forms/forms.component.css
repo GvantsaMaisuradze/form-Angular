@@ -1,0 +1,10 @@
+.form-group{
+    margin: 15px 0px;
+}
+label{
+    font-weight: bolder;
+    padding-bottom: 5px;
+}
+h1{
+    text-align: center;
+}
